@@ -11,29 +11,48 @@ body .container-fluid {
     padding: 0;
 }
 
+ 
+
+/* navbar */
 
 .navbar {
-    background-color: rgba(91, 91, 91, 1) !important;
+    background-color: rgba(91, 91, 91, 0.8) !important;
     text-transform: uppercase;
-    font-weight: 700;
-    font-size: 1.3rem;
-    letter-spacing: .1rem;
+    font-weight: 600;
+    font-size: 1.4rem;
+    letter-spacing: .13rem;
 }
 
 .navbar-brand img{
-    height: 3.5rem;
+    height: 4rem;
 }
 
 .navbar-nav li {
-    padding-right: 0.7rem;
+    padding-right: .65rem;
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color: #fff;
+    color: #ffffff;
     padding-top: 0.8rem;
 }
 
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link:hover {
-    color: #404040;
+    color: #aaaaaa;
 }
+
+/* end navbar */
+/* hero img */
+
+.hero-img {
+    background-image: url(./images/hero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    background-color:#fff; 
+}
+
+
+/* end hero img */
