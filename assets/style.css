@@ -49,7 +49,7 @@ body .container-fluid {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 90vh;
+    height: 100vh;
     width: 100%;
     background-color:#fff; 
     position: relative;
@@ -161,3 +161,6 @@ body .container-fluid {
 
 /* end about setion */
 
+.card {
+    margin-top: 8%;
+}
