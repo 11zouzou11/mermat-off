@@ -16,7 +16,7 @@ body .container-fluid {
 /* navbar */
 
 .navbar {
-    background-color: rgba(91, 91, 91, 0.8) !important;
+    background-color: rgba(91, 91, 91, 1) !important;
     text-transform: uppercase;
     font-weight: 600;
     font-size: 1.4rem;
@@ -42,17 +42,53 @@ body .container-fluid {
 }
 
 /* end navbar */
-/* hero img */
+/* hero img*/
 
 .hero-img {
     background-image: url(./images/hero.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 100vh;
+    height: 90vh;
     width: 100%;
     background-color:#fff; 
+    position: relative;
+    overflow: hidden;
+}
+/* end hero img */
+
+/*heading*/
+
+.heading-1 {
+    text-transform: capitalize;
+    font-size: 2.5rem;
+    color: #222222;
 }
 
+.sub-heading {
+    text-transform: capitalize;
+    color: #222222;
 
-/* end hero img */
+}
+.button-text {
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+    border: none;
+    font-size: 1.7rem;
+}
+.title a {
+    color: #222222;
+}
+.title a:hover {
+    color: #ffffff;
+}
+.title {
+    position: absolute;
+    top: 25%;
+    left: 5%;
+}
+/* end heading*/
+
+
+
