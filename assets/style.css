@@ -161,6 +161,25 @@ body .container-fluid {
 
 /* end about setion */
 
+/*service*/
+.service-heading {
+    font-size: 4rem;
+    text-transform: capitalize;
+    color: #222222;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+
 .card {
     margin-top: 8%;
 }
+
+.service-hr {
+    width: 33%;
+    padding-bottom: 1%;
+    border-top: .3rem solid #aaaaaa;
+}
+
+/*end service*/
