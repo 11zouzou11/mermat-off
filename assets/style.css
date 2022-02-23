@@ -63,11 +63,15 @@ body .container-fluid {
     text-transform: capitalize;
     font-size: 2.5rem;
     color: #222222;
+    text-align: center;
+    justify-content: center;
 }
 
 .sub-heading {
     text-transform: capitalize;
     color: #222222;
+    text-align: center;
+    justify-content: center;
 
 }
 .button-text {
