@@ -127,9 +127,8 @@ body .container-fluid {
     font-size: 1.4rem;
     color: #222222;
 }
-/* this image was taking from unsplash user: Foto Sushi, link : https://unsplash.com/photos/6anudmpILw4 */ 
-.our-ceo-img {
-    background-image: url(./images/our-ceo.jpg);
+.om-oss-img {
+    background-image: url(./images/om-oss.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
