@@ -279,6 +279,13 @@ body .container-fluid {
     cursor: pointer;
 }
 
+.brands-heading {
+    font-size: 2.5rem;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 2%;
+    margin-bottom: 4%;
+}
 
 footer {
     background-color: rgba(91, 91, 91, 1) !important;
@@ -306,10 +313,7 @@ footer i:hover {
 }
 
 
-.slider {
-    max-width: 1040px;
-    margin: 0 auto;
-}
+
 
 .slider img {
     width: 100%;
