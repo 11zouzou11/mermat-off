@@ -24,7 +24,7 @@ body .container-fluid {
 }
 
 .navbar-brand img{
-    height: 4rem;
+    height: 5rem;
 }
 
 .navbar-nav li {
@@ -202,7 +202,6 @@ body .container-fluid {
 .card-text {
     font-size: 1.1rem !important;
     font-style: normal;
-    text-transform: capitalize;
     color: #222222;
 }
 /*end service*/
