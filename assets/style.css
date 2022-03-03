@@ -317,3 +317,9 @@ footer i:hover {
 .slider img {
     width: 100%;
 }
+
+
+.carousel-inner > .item > img {
+    width:640px;
+    height:360px;
+  }
