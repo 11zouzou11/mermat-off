@@ -43,6 +43,11 @@ body .container-fluid {
 
 /* end navbar */
 
+.gallery {
+    margin-top: 8%;
+}
+
+
 
 footer {
     background-color: rgba(91, 91, 91, 1) !important;
